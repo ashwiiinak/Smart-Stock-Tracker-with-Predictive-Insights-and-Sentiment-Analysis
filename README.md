@@ -22,9 +22,6 @@ Built with **Python** and **Streamlit**, this app offers a user-friendly interfa
 3. Run the app using Streamlit: `streamlit run app.py`
 4. View the app in your browser at `http://localhost:8501`
 
-## License:
-This project is licensed under the MIT License.
-
 ## Contributing:
 Feel free to fork the repository and create pull requests to contribute to the project.
 
